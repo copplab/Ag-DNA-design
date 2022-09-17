@@ -12,11 +12,8 @@ containing the seqeunces of interested. The name of the file must be included in
 file as follows. 
 
 A C G T A C G T A C . 
-
 C G T A C G T A C A . 
-
 A C G A C G T A C G . 
-
 T A C G T A C A C G . 
 
 Executing the code will output a out.csv file that includes the probablity of each sequence falling into a color class for each 1v1 svm. 
@@ -26,10 +23,7 @@ Training data files can be found in the training data folder. Each file contains
 to add addtional training data it must be included in the following way, with the 0 corrisponding to the smaller wavelengthclass and 1 the larger class. 
 
 A C G T A C G T A C 0 . 
-
 C G T A C G T A C A 0 . 
-
 A C G A C G T A C G 1 . 
-
 T A C G T A C A C G 1 . 
 
