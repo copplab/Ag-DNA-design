@@ -15,3 +15,12 @@ Running the SVM code will will result
 To generate the accuracies of each model the SVM_accuracies code must be executed. 
 
 To predict new seqeunces predict sequences code is must be run. To execute this code 
+
+A C G T A C G T A C . 
+C G T A C G T A C A . 
+A C G A C G T A C G . 
+T A C G T A C A C G . 
+
+
+
+
