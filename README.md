@@ -1,7 +1,7 @@
 # Ag-DNA-design
 This repository contains code for the design of DNA-stabilized silver nanoclusters with peak emission wavelengths from about 400 nm to 1,000 nm.
 
-Instructions for executing the code for the 1v1 SVM model for Agn-DNA nanocluster design are described in [accepted manuscript; DOI coming soon]
+Instructions for executing the code for the 1v1 SVM model for Agn-DNA nanocluster design are described in DOI 10.1021/acsnano.2c05390 (Mastracco, et al. ACS Nano 2022)
 
 
 To predict the color class of DNA sequences, execute predict_sequences.py , including a textfile containing the sequences of interest. File name must be included in line 27 (in place of file_name), and the sequences must be inlcuded in the 
